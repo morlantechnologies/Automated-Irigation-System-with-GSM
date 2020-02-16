@@ -181,9 +181,3 @@ while((moisturevalue > avg_moisture)&&(temp < avg_temp)&&(hum < avg_hum)) {
        Serial.println("ATD+233203693218;");
        delay(50);
      }
-
-   
-     
-
-
-
